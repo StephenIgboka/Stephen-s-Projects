@@ -1,2 +1,2 @@
 # Stephen-s-Projects
-This repository contains all prominent projects created by me in college.
+This repository contains some projects created while in college.
